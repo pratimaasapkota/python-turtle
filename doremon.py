@@ -313,12 +313,12 @@ def Doraemon():
 
 if __name__ == '__main__':
     screensize(800,600, "#f0f0f0")
-    title('Doraemon made by Saksham Aggarwal')
+    title('Doraemon made by Pratima Sapkota')
     pensize(3)  
     speed(9)    
     Doraemon()
     my_goto(100, -300)
-    write('Do Follow Saksham Aggarwal', font=("Italian", 30, "bold"))
+    write('Do Follow Pratima Sapkota', font=("Italian", 30, "bold"))
     mainloop()
 
 
