@@ -309,7 +309,7 @@ def Doraemon():
     my_goto(0, -150)
 
    
-    black_eyes()
+    black_eyes() 
 
 if __name__ == '__main__':
     screensize(800,600, "#f0f0f0")
