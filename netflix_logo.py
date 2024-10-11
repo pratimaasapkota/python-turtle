@@ -81,8 +81,6 @@ t.setheading(0)
 t.forward(31)
 t.setheading(293)
 t.forward(196)
-t.end_fill()
-t.hideturtle()
 
 
 
