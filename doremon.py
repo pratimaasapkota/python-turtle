@@ -319,8 +319,7 @@ if __name__ == '__main__':
     Doraemon()
     my_goto(100, -300)
     write('Do Follow Pratima Sapkota', font=("Italian", 30, "bold"))
-    mainloop()
-
+    
 
 
 
