@@ -4,7 +4,7 @@ from turtle import *
 
 x=Turtle()
 
-title("Moon night made by Saksham Aggarwal")
+title("Moon night made by Pratima Sapkota")
 
 x.speed(0)
 
