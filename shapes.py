@@ -41,6 +41,8 @@ t.pendown()
 for i in range(4):
     t.backward(90)
     t.right(90)
+t.end_fill()
+time.sleep(2)
 
 
 
