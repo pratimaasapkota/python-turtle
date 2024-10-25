@@ -16,6 +16,13 @@ a.speed(6)  # 0 - fast speed,,,, 1--slow speed,,,,,,  5--average
 a.fd(-150)
 
 a.begin_fill()
+for i in range(90):
+    a.forward(300)
+    a.left(170)
+
+    a.end_fill()
+turtle.mainloop()
+
 
 
 
