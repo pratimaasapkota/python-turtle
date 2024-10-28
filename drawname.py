@@ -500,7 +500,8 @@ def main():
     turt1.color("white")  # Turns the cursor white to hide it
 
     wn.exitonclick()
-
+if __name__ == "__main__":
+    main()
 
 
 
