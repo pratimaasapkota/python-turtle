@@ -1270,6 +1270,14 @@ x.forward(15)
 x.right(144)
 x.forward(15)
 x.right(144)
+x.forward(15)
+x.right(144)
+x.forward(15)
+x.right(144)
+x.forward(15)
+x.right(144)
+x.end_fill()
+done()
 
 
 
