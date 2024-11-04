@@ -27,5 +27,17 @@ for i in range(12):
       trtl.home()
       trtl.home()
 
+trtl.setpos(0,-250)
+trtl.pendown()
+trtl.pensize(10)
+trtl.pencolor('blue')
+trtl.circle(250)
+trtl.penup()
+trtl.setpos(150,-270)
+trtl.pendown()
+trtl.pencolor('olive')
+trtl.write('          If Your Action Inspire Others \n          To Dream more \n          To Learn more \n          Than You Are a Leader \n                   "Saksham Aggarwal"',font=("Arial", 12, "normal"))
+trtl.ht()
+
 
 
