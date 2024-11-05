@@ -89,10 +89,7 @@ def main():
     return "runtime: %.2f sec." % (b-a)
 
 
-if __name__ == '__main__':
-    main()
-    mainloop()
-    
+
 
 
 
